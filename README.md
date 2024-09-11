@@ -13,7 +13,7 @@ This is a simple React-based CRUD (Create, Read, Update, Delete) application tha
 ## Technology Stack
 
 - **Frontend**: React, Axios for making HTTP requests
-- **Backend**: REST API (Node.js + MySQL) from [node-mysql API](https://github.com/wjy8023tvxq/node-mysql.git)
+- **Backend**: REST API (Node.js + MySQL) from [node-mysql API](https://github.com/JiayiWu-MobilePractice/node-mysql.git)
 - **Database**: MySQL for storing user information
 - **Other Tools**:
   - Testing: React Testing Library, Jest
@@ -24,13 +24,13 @@ This is a simple React-based CRUD (Create, Read, Update, Delete) application tha
 ### Prerequisites
 
 - Node.js and npm installed
-- Backend API available from [node-mysql](https://github.com/wjy8023tvxq/node-mysql.git) running on localhost
+- Backend API available from [node-mysql](https://github.com/JiayiWu-MobilePractice/node-mysql.git) running on localhost
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/db-crud-app.git
+   git clone https://github.com/JiayiWu-MobilePractice/db-crud-app.git
    cd db-crud-app
    ```
 
